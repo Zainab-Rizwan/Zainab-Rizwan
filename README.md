@@ -1,94 +1,138 @@
-  # Hi there, I'm Zainab
-![Hey! Let me know how can I help you.](https://github.com/goncaloperes/GoncaloPeres/blob/master/GitHub_Cover.gif)
-
+  # Hi there, I'm Zainab!
+<br />
 <p align="center">
   <img src="https://github.com/Zainab-Rizwan/Portfolio/blob/main/image.jpg"  title="hover text">
 </p>
 
-### Connect with Gonçalo
-
-[<img align="left" alt="Gonçalo Peres | LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="Gonçalo Peres | Pinterest" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/pinterest.svg" />][Pinterest]
-
+<br />
+A versatile computer engineer in the making, talented at contributing to team-developed projects. Knowledgeable in programming and gifted at creating unique art. Always looking to exceed expectations.
 
 <br />
 
-----
+<h2>Connect with me</h2>
+<a href="https://linkedin.com/in/ayesha-nadeem-41bb3b209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-nadeem-41bb3b209" height="30" width="40" /></a>
+<a href="https://kaggle.com/ashiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashiii" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayeshanadeem1981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayeshanadeem1981" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayeshanadeem1981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ayeshanadeem1981" height="30" width="40" /></a>
 
 
 
-[Linkedin]: https://www.linkedin.com/in/goncaloperes
-[Pinterest]: https://www.pinterest.pt/goncalomperes/
 
-
-<h2>💻 Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <table width="100">
 <tr>
-    <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+    <td align='center' width="150">
+        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100"</a>
     </td>
-    <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png">
+    <td align='center' width="150">
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100"/> </a> 
     </td>
-    <td align='center' width="190">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="50" height="50">
+      <td align='center' width="150">
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" width="100"</a>
     </td>
-    <td align='center' width="190">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    <td align='center' width="150">
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100"</a> 
     </td>
-    <td align='center'>
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+   <td align='center' width="150">
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100"</a> 
     </td>
+      <td align='center' width="150">
+         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"</a>
+    </td>
+ <td align='center' width="150">
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100"</a>     
+    </td> 
 </tr>
 
+  
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="50" width="60">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100"</a> 
+    </td>
+   <td align='center'>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100"/> </a> 
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100"</a> 
+    </td>
+      <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="90">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="100">
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="90" </a> 
     </td>
-    <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
+  <td align='center'>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100"/> </a> 
     </td>
 </tr>    
+  
+  
+  <tr>
+    <td align='center'>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100"/></a> 
+    </td>
+   <td align='center'>
+        <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="100"> </a> 
+    </td>
+    <td align='center'>
+       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="90"</a> 
+    </td>
+    <td align='center'>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100"/> </a> 
+    </td>
+    <td align='center'>
+        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="100"/> </a>
+    </td>
+    <td align='center'>
+        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100"/> </a> 
+    </td>
+  <td align='center'>
+        <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="100"/> </a>
+    </td>
+</tr>    
+  
+<tr>
+    <td align='center'>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bracketsio/bracketsio-ar21.svg" alt="brackets" width="100"</a> 
+    </td>
+   <td align='center'>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100"/> </a> 
+    </td>
+    <td align='center'>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100"</a> 
+    </td>
+      <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="90">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="100">
+    </td>
+    <td align='center'>
+        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="90" </a> 
+    </td>
+  <td align='center'>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100"/> </a> 
+    </td>
+</tr>    
+  
 </table>
 
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-
+xampp fresco lightroom brackets jupyter anaconda spyder dev c++ mplab proteus latex sublime vmware
 <br />
 <br />
 
-## Connect with Me
 
-<p align="center">
-<a href="https://www.saad-hassan.com"><img src="https://img.shields.io/badge/Zainab-Rizwan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/Zainab-Rizwan"><img src="https://img.shields.io/badge/-Zainab%20Rizwan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:zainabriz--27@gmail.com"><img src="https://img.shields.io/badge/-zainabriz0027@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<h2>Github Analytics</h2>
 
-
-## Contribution Graph
-
+  <p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-Rizwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/Zainab-Rizwan"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zainab-Rizwan&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+</a>
+ </p>
   <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zainab-Rizwan&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true"/>
     <img src="https://activity-graph.herokuapp.com/graph?username=Zainab-Rizwan&count_private=true&hide_border=true&theme=graywhite" />
@@ -96,29 +140,13 @@
 
 
 
-<h2>GitHub Analytics</h2>
 
-<p align="center">
-<a href="https://github.com/saadhaxxan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zainab-Rizwan&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
 
 
 <br>
 <div align="center">
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Zainab-Rizwan" alt="Zainab-Rizwan"/> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayesha-nadeem-41bb3b209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-nadeem-41bb3b209" height="30" width="40" /></a>
-<a href="https://kaggle.com/ashiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashiii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayeshanadeem1981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayeshanadeem1981" height="30" width="40" /></a>
-</p>
-
-
 </div>
 
 
