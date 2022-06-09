@@ -1,4 +1,24 @@
   # Hi there, I'm Zainab
+![Hey! Let me know how can I help you.](https://github.com/goncaloperes/GoncaloPeres/blob/master/GitHub_Cover.gif)
+
+<p align="center">
+  <img src="https://github.com/Zainab-Rizwan/Portfolio/blob/main/image.jpg"  title="hover text">
+</p>
+
+### Connect with Gonçalo
+
+[<img align="left" alt="Gonçalo Peres | LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="Gonçalo Peres | Pinterest" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/pinterest.svg" />][Pinterest]
+
+
+<br />
+
+----
+
+
+
+[Linkedin]: https://www.linkedin.com/in/goncaloperes
+[Pinterest]: https://www.pinterest.pt/goncalomperes/
 
 
 <h2>💻 Tech Stack</h2>
@@ -70,8 +90,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-Rizwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zainab-Rizwan&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true"/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Zainab-Rizwan&count_private=true&hide_border=true&theme=radical" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zainab-Rizwan&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Zainab-Rizwan&count_private=true&hide_border=true&theme=graywhite" />
 </p>
 
 
@@ -80,7 +100,7 @@
 
 <p align="center">
 <a href="https://github.com/saadhaxxan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zainab-Rizwan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zainab-Rizwan&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
@@ -98,7 +118,6 @@
 <a href="https://www.hackerrank.com/ayeshanadeem1981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayeshanadeem1981" height="30" width="40" /></a>
 </p>
 
-<!-- ![GitHub followers](https://img.shields.io/github/followers/Ayesha659?label=follow&style=social "Follow on Github") -->
 
 </div>
 
