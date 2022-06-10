@@ -96,17 +96,20 @@ A versatile computer engineer in the making, talented at contributing to team-de
 </tr>    
   
 <tr>
-    <td align='center'>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bracketsio/bracketsio-ar21.svg" alt="brackets" width="100"</a> 
-    </td>
-   <td align='center'>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100"/> </a> 
+  <td align='center'>
+        <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="100"/> </a> 
     </td>
     <td align='center'>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100"</a> 
+        <a href="https://brackets.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bracketsio/bracketsio-icon.svg" alt="brackets" width="100"</a> 
+          </td>
+      <td align='center'>
+        <a href="https://brackets.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sublime-text-logo.svg" alt="sublime text" width="100"</a> 
+          </td>
+    <td align='center'>
+        <a href="https://bigquery.cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="big query" width="100"</a> 
     </td>
       <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="90">
+         <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/raw/master/icons/xampp.svg" alt="big query" width="100"</a>
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="100">
@@ -114,30 +117,25 @@ A versatile computer engineer in the making, talented at contributing to team-de
     <td align='center'>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="90" </a> 
     </td>
-  <td align='center'>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100"/> </a> 
-    </td>
 </tr>    
   
 </table>
 
-xampp fresco lightroom brackets jupyter anaconda spyder dev c++ mplab proteus latex sublime vmware
+ fresco lightroom  anaconda spyder dev c++ mplab proteus latex sublime vmware
 <br />
 <br />
 
 
 <h2>Github Analytics</h2>
 
-  <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-Rizwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/Zainab-Rizwan"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zainab-Rizwan&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-</a>
- </p>
-  <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zainab-Rizwan&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true"/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Zainab-Rizwan&count_private=true&hide_border=true&theme=graywhite" />
-</p>
 
+<a href="https://github.com/Zainab-Rizwan"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zainab-Rizwan&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/></a>
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zainab-Rizwan1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+![image](https://Zainab-Rizwan-images.githubusercontent.com/20955511/103045930-1501a000-458f-11eb-95e8-a96774ac37ec.png)
+  <p>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Zainab-Rizwan&count_private=true&hide_border=true&theme=midnight" />
+</p>
 
 
 
