@@ -133,23 +133,20 @@ A versatile computer engineer in the making, talented at contributing to team-de
     </td>
       <td align='center'>
          <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="100"/></a> 
-          </td>
-          
-  
+          </td> 
 </tr>     
-  
-
 </table>
 
 <br />
-<br />
 
 <h2>Github Analytics</h2>
+<br />
 <p align="center">
 <a href="https://github.com/Zainab-Rizwan"><img height="180em"src="https://github-readme-stats.vercel.app/api?username=Zainab-Rizwan&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/></a>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zainab-Rizwan&theme=graywhite&stroke=0000&count_private=true&include_all_commits=true"/>
   </p>
 
+<br />
 <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Zainab-Rizwan&count_private=true&hide_border=true&bg_color=0d1117&theme=nord" />
 </p>
